@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/udaybute.github.io/PhotoMangerApp/static/css/main.9c1e8776.css",
+    "main.js": "/udaybute.github.io/PhotoMangerApp/static/js/main.0f6d2884.js",
+    "static/media/logoapp.png": "/udaybute.github.io/PhotoMangerApp/static/media/logoapp.11e8d3326736c7e792d2.png",
+    "index.html": "/udaybute.github.io/PhotoMangerApp/index.html",
+    "main.9c1e8776.css.map": "/udaybute.github.io/PhotoMangerApp/static/css/main.9c1e8776.css.map",
+    "main.0f6d2884.js.map": "/udaybute.github.io/PhotoMangerApp/static/js/main.0f6d2884.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1e8776.css",
+    "static/js/main.0f6d2884.js"
+  ]
+}
